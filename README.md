@@ -1,8 +1,4 @@
-# 2imd-webtech2-labs
+Kevin Van Humbeeck
 
-## LAB 1
-Add a hyperlink to your lab1 assignment here:
-
-* Didier Kerinckx: "https://github.com/Bram-Anhinga/Webtech2_Lab1"
-* Damon Baesen "https://github.com/DamonBaesen/webtechnologie2" 
-* Kevin Van Humbeeck "https://github.com/kevinvanhumbeeck/webtech2-lab1"
+https://github.com/kevinvanhumbeeck/webtech2-lab1
+https://bitbucket.org/kevinvh/2imda
